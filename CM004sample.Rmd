@@ -13,13 +13,13 @@ This is a line of text.
 - bullet 1
 - bullet 2
 # command option i / insert r
-```{r}
+```{r, fig.width=100,fig.height=100}
 x <- rnorm(100)
 y <- rnorm(100)
 plot (x,y)
 ```
 
-```{r this is the third chunk}
+```{r this is the third chunk, echo=FALSE}
 summary(x)
 ```
 

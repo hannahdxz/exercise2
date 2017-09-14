@@ -18,13 +18,9 @@ plot (x,y)
 ![](CM004sample_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 
 
-```r
-summary(x)
 ```
-
-```
-##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-## -3.11100 -0.56320  0.13680  0.09604  0.77770  3.08700
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+## -3.5120 -0.7619 -0.1904 -0.1298  0.5635  2.2300
 ```
 
 ```
